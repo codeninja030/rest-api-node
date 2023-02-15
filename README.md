@@ -1,4 +1,4 @@
-﻿![NodeJS logo](logo.png)
+![NodeJS logo](logo.png)
 
 ## Node API
 
@@ -109,8 +109,3 @@ This application is hosted on Heroku and serve a bunch of AJAX requests to give 
 - Dependency consign - <a href="https://www.npmjs.com/package/consign">https://www.npmjs.com/package/consign</a>
 - Dependency mongoose - <a href="https://www.npmjs.com/package/mongoose">https://www.npmjs.com/package/mongoose</a>
 
-By: <a href="http://renanlopes.com">Renan Lopes</a>
-
-[heroku.com]: https://www.heroku.com
-[mlab.com]: https://mlab.com
-[github.com]: https://www.github.com
